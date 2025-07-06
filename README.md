@@ -1,5 +1,5 @@
 <!-- ![minas sahiddin](img/github-header-image1.png) -->
-![myname](img/gif.gif)
+![myname](Img/gif.gif)
 
 <!--
 **Aiboo13/Aiboo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Descsription
-![Desc](img/Descsription.png)
+![Desc](Img/Descsription.png)
 #### Skills
 <!-- ![Aiboo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiboo13&show_icons=true&theme=radical) -->
 
