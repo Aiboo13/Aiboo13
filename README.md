@@ -20,12 +20,15 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ---
 
 <!-- Learning -->
 ### 📚 Currently Learning  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,tailwind,bootstrap&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,go,react,git,next,tailwind,bootstrap&perline=4)](https://skillicons.dev)
 
 ---
 
